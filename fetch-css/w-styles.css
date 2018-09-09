@@ -1,0 +1,39 @@
+ #temperature {
+     text-align: center;
+     font-size: 5em;
+ }
+
+ .cold {
+     color: blue;
+ }
+
+ .hot {
+     color: red;
+ }
+
+ .weatherbtn {
+     font-size: 20px;
+     font-family: 'Lato', sans-serif;
+     font-weight: 300;
+     background-color: #3ac1ff;
+     color: rgb(255, 255, 255);
+     border: #efe5e5;
+     padding: 6px;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+ }
+
+ .city_name {
+     font-size: 20px;
+     font-family: 'Lato', sans-serif;
+     font-weight: 300;
+     color: white;
+     border-color: transparent;
+     padding: 15px;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+ }
+
+ .form {
+     border-color: white;
+ }
