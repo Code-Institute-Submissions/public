@@ -14,10 +14,10 @@
 - It is a fully responsive website, to fit all screen sizes 
 - From a broad perspective it does not have a database.
 
-- This business website is entended to lure the user in to see whats it all about, it is based an alpine adventures company which caters for  climbing , sking &  - snowboarding packages, with a company app & api teasers ,
+- This business website is entended to lure the user in to see whats it all about, it is based an alpine adventures company which caters for   climbing , sking &  - snowboarding packages, with a company app & api teasers ,
 - A small pricing & packing table is provided to try to induce our customer to look further & enquire more.
 
-- The theme of this website is geared towards the sports & travel niche, while sticking to best practises, the colors should protray a feeling of movement & style,
+- The theme of this website is geared towards the sports & travel niche, while sticking to best practises,the colors should protray afeeling - of movement & style,
 
 - The content is intented to be informative to the subjects in point.
 - The site is designed in such a way that its not very easy to get lost , when a user is on the guide page, he can not go to the app page , similer , when a  user - is on the app page he can not go to the Guide page , but all pages can be accessed from the home page , reducing the amount of routes to the same origin , this - was indented to reduce fustration & confusion 
@@ -298,7 +298,7 @@ On deploying this project , I explored various options such as host providers & 
 - I wrote all the content 
 
 ### Media
-- The photos & videos used in this site were obtained from Pexels, Unsplash
+- The photos & videos used in this site were obtained from Pexels, Unsplash 
 
 ### Acknowledgements
 ##### I didn't base my work off other code, I used only what I had learnt in syllabuss1/LMS1 & syllabuss2/LMS2(cloud-9).
