@@ -14,13 +14,13 @@
 - It is a fully responsive website, to fit all screen sizes 
 - From a broad perspective it does not have a database.
 
-- This business website is entended to lure the user in to see whats in store, it is based an alpine adventures company which caters for - - - climbing , sking &  - snowboarding packages, with a company app & api teasers ,
+- This business website is entended to lure the user in to see whats it all about, it is based an alpine adventures company which caters for  climbing , sking &  - snowboarding packages, with a company app & api teasers ,
 - A small pricing & packing table is provided to try to induce our customer to look further & enquire more.
 
 - The theme of this website is geared towards the sports & travel niche, while sticking to best practises, the colors should protray a feeling of movement & style,
 
 - The content is intented to be informative to the subjects in point.
-- The site is designed in such a way that its not very easy to get lost , when a user is on the guide page, he can not go to the app page , similer , when a  user - is on the app page he can not go to the Guide page , but all pages can be accessesd from the home page , reducing the amount of routes to the same origin , this - was indented to reduce fustartion & confusion 
+- The site is designed in such a way that its not very easy to get lost , when a user is on the guide page, he can not go to the app page , similer , when a  user - is on the app page he can not go to the Guide page , but all pages can be accessed from the home page , reducing the amount of routes to the same origin , this - was indented to reduce fustration & confusion 
  
 ## UX
  
@@ -157,10 +157,11 @@ This Project also makes use of HTML form validation
 
 ## Testing
 ##### I ran all my files through a validation test using
+##### Passing 100%
 - [W3C](https://validator.w3.org/) for HTML.
 - [W3C](https://jigsaw.w3.org/css-validator/) for CSS.
 - [JS Hint](http://jshint.com/) for JavaScript.
-##### Passing 100%
+
 
 Tested On   
 - Chrome. 
@@ -266,7 +267,7 @@ On deploying this project , I explored various options such as host providers & 
   The deployment project folder lives at this address
   [github](https://github.com/90t/public)
 
-  ##### My project can be viewed fully deployed on Firebase [here](https://freestylerallrounder.firebaseapp.com/).
+  ## My project can be viewed fully deployed on Firebase [here](https://freestylerallrounder.firebaseapp.com/).
 
 
 - There is list of firebase commands for development & developers , you can find them here 
@@ -300,7 +301,7 @@ On deploying this project , I explored various options such as host providers & 
 - The photos & videos used in this site were obtained from Pexels, Unsplash
 
 ### Acknowledgements
-##### I didn't base my work off other code, I used only what I had learnt in syllabuss1/LMS1 & syylabuss2/LMS2(cloud-9).
+##### I didn't base my work off other code, I used only what I had learnt in syllabuss1/LMS1 & syllabuss2/LMS2(cloud-9).
 
 #### There was also a orignal folder, but this folder was destroyed in a OS crash on my pc , so when my pc was in getting repaired I used a second pc, which I then cloned the project folderfrom the spare pc, when I got my repared pc back I had no internet at the time , so I needed to work on my project locally, so I copied the contents of the cloned project folder from the spare pc  on to a usb stick which I then copied on to my repaired pc , so that is how I ended up with 2 repos for the same project , aswell as the similaritys in the folder names of public & publish , if there is any confusion to this , Student Care Certainly conatct me to clarify.....
 
@@ -314,7 +315,8 @@ On deploying this project , I explored various options such as host providers & 
 
 ### This website has gone from Performance 20%, ProgressiveWeApp 29%, Accessibitily 59%, Best Practices 74%, SEO 81%, TO ---> 
 
-### Performance 31%, ProgressiveWeApp 31%, Accessibitily 76%, Best Practices 87%, SEO 100%, 
+### Performance 43%, ProgressiveWeApp 31%, Accessibitily 76%, Best Practices 87%, SEO 100%, I am very pleaed with massive improvement
+### In order to increase the performance even more would be transfer all css file inline to all html & migrate all libereires such as Bootstarp
 - [lighthouse](https://freestylerallrounder.firebaseapp.com/lighthouse.html/)
 
 ##### 10/09/2018 This is Clive Noonan , Code Initstute , Project Number1, Signing Off......
