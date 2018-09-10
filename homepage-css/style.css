@@ -51,7 +51,7 @@ h4, h5, h6{
     color: black;
     font-size: 38px;
     font-family: 'Lato';
-    font-weight: 300;
+    font-weight: 700;
     line-height: 45px;
 } 
 .about-box-lg h3{
@@ -60,7 +60,7 @@ h4, h5, h6{
 p{
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 23px;
   word-spacing: 1px;
   letter-spacing: 1px;
@@ -761,7 +761,7 @@ ul.social-list li:nth-child(3) a:hover {
 }
 .talent h4 {
   line-height: 62px;
-  font-weight: 100;
+  font-weight: 700;
   margin: 0;
 }
 .progress{
@@ -822,7 +822,7 @@ ul.social-list li:nth-child(3) a:hover {
   color: #fff;
   font-size: 30px;
   font-family: 'Lato';
-  font-weight: 100;
+  font-weight: 700;
   line-height: 34px;
   margin-top: 80px;
 }
@@ -849,9 +849,9 @@ ul.social-list li:nth-child(3) a:hover {
 
 #remember h3{
   color: #fff;
-  font-size: 30px;
+  font-size: 19px;
   font-family: 'Lato';
-  font-weight: 100;
+  font-weight: 700;
   line-height: 34px;
   margin-top: 80px;
 }
@@ -988,8 +988,8 @@ ul.social-list li:nth-child(3) a:hover {
   color: rgb(0, 0, 0);
   font-size: 48px;
   font-family: 'Lato';
-  font-weight: 300;
-  line-height: 45px;
+  font-weight: 700;
+  line-height: 35px;
   margin-top: 80px;
 }
 /* =========================================
@@ -1054,8 +1054,8 @@ ul.social-list li:nth-child(3) a:hover {
 ============================================ */
 
 .pricing-table {
-  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 10px 0 rgb(91, 113, 240);
+  box-shadow: 0 0 10px 0 rgb(91, 113, 240);
   border-radius: 6px;
   padding: 32px 21px;
   -webkit-transition: all 400ms linear;
@@ -1143,7 +1143,7 @@ ul.social-list li:nth-child(3) a:hover {
 
 .pricing-table:hover .btn-yellow {
   background: #fff;
-  color: #212226;
+  color: #3458e9;
   border: 1px solid #fff;
 }
 
@@ -1158,7 +1158,7 @@ ul.social-list li:nth-child(3) a:hover {
 /* Black Pricing Table */
 
 .pricing-table.black {
-  background: #212226;
+  background: #19308b;
   color: #fff;
 }
 
