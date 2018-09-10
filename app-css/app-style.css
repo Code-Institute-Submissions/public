@@ -44,10 +44,10 @@ p {
 .section-title h2 {
     position: relative;
     text-align: center;
-    color: rgb(57, 91, 243);
+    color: rgb(76, 88, 142);
     font-size: 35px;
     line-height: 40px;
-    font-weight: 100;
+    font-weight: 700;
     text-transform: uppercase;
 }
 
@@ -248,8 +248,9 @@ border-top: 1px solid white;
 
 .choose-us-title h2 {
     text-transform: uppercase;
+    color: rgb(76, 88, 142);
     font-family: 'Lato', sans-serif;
-    font-weight: 100;
+    font-weight: 700;
     font-size: 35px;
     line-height: 40px;
     position: relative;
