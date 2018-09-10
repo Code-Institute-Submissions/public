@@ -25,18 +25,18 @@ A small pricing & packing table is provided to try to induce our customer to loo
 ## Scenario-1
 ### User1 recieves a hyperlink link from a friend recommending a website ,User1 clicks the link & has a succesfull connection to the website.
 
-### User2 recieves a text message with a hyperlink , clicks the link , after a few moments of surfing the website , User2 decides that they would like to contact the company , scrolling down the page User2 decides to speed up the process & look for the nav-bar, with a quick glance User2 finds the nav-bar & accesses the contact link which in turn sends him to the contact section of the website , User2 is interuppted & never fills out the form 
+### User2 recieves a text message with a hyperlink from User1 , User2 clicks the link , after a few moments of surfing the website , User2 decides that they would like to contact the company , scrolling down the page User2 decides to speed up the process & look for the nav-bar, with a quick glance User2 finds the nav-bar & accesses the contact link which in turn sends him to the contact section of the website , User2 is interuppted & never fills out the form 
 
 ### User3 is in work , while chatting on the phone to a college, user3 is recommended a website for a canditate for weekend away for some badly needed R & R , User3 asks for the link , recieves the link thru an email , User3 succesfully connects to the website on his desktop after browsing the site User3 decides to contact the company by way of phone , looking up to the nav which is visible anywhere on the page, clicks the contact section finds the phone number & succesfully contacts the company, User3 then contacts User2 to ask him to email the company for more info , 
 
-### User2 connects to the website on the bus after recieving slack message from User3, User2 finds the contact section again with ease procides to fill out the form , on filling in the email, half way thru the bus hits a bumb & User2 miss,s the @ symbol , when pressing the send button user2 is propted to correct the mistake , User2 corrects his typo , presses the send button & is transpoted to formspree.io message explainig the process , a option to "Go back to the original site" is clearly stated aswell as confirmation of contact , User2 is pleased
+### User2 connects to the website on the bus after recieving slack message from User3, User2 finds the contact section again with ease procides to fill out the form , on filling in the email, half way thru the bus hits a bumb & User2 miss,s the @ symbol , when pressing the send button user2 is propted to correct the mistake , User2 corrects his typo , presses the send button & is transpoted to formspree.io message explaining the process , an option to "Go back to the original site" is clearly stated aswell as confirmation of contact , User2 is pleased
 
-### User4 leaves his docters practise where he was attending ongoing treatment for dispraxia, User4 recives a message on viber fro User3 recomending a website for there up & coming week away , User4 clicks the hyperlink & connects to the website , after browsing for a few min utes he relises that this not the type of holiday for him, but is very impressed by the website , while scanning the website on his custom build in monitor he see,s the guide button & clicks the button & is swiftly sent to the guide page , there he is promted with a choice to let the aplpication access his wifi, User4 clicks yes, he can easly make out the functionalty of this app & spots a restaurant only a few minutes away that User1 had recommended, User4 decides he wants to exit the website & looks to the nav, he see,s that there is only 1 logical option , Home , User4 is sent back to the home page , where he again see,s the app link in the nav bar, Users4,s  custom built vehicle stops outside his front door, curious User4 continues to browse....... 
+### User4 leaves his docters practise where he was attending ongoing treatment for dispraxia, User4 recives a message on viber fro User3 recomending a website for there up & coming week away , User4 clicks the hyperlink & connects to the website , after browsing for a few min User4 relises that this is not the type of holiday for him, but is very impressed by the website , while scanning the website on his custom build in monitor he see,s the guide button & clicks the button & is swiftly sent to the guide page , there he is promted with a choice to let the application access his wifi, User4 clicks yes, he can easly make out the functionalty of this app & spots a restaurant only a few minutes away that User1 had recommended, User4 decides he wants to exit the website & looks to the nav, he see,s that there is only 1 logical option , Home , User4 is sent back to the home page , where he again see,s the app link in the nav bar, Users4,s  custom built vehicle stops outside his front door, curious, User4 continues to browse....... 
 
-### User5 recieves a phone call while sailing in the pacific on his satellite phone , from User3 , the last ten minutes of there conversation was about there weekend away, & asks him to send him the link over a satilite connection, User5 recieves the link 7 connects on his satilite laptop , the go,s to the "Contact Us" page & hits the submit form by misatke but is met with an error message about the required fields , User5 fills in the form for the first time & submits , agian he is met with an n error message about the required fields, for the third time he access the contact page & see,s that his details are still there , except the @ symbol he was promted about, he fills in the missing field ,submits the form with all inputs valid and verifys that a success message appears.Success User5 is very very pleased about te fact even tho it took hiom 3 attempts , he never left the contact section, User5 see,s the app button in the footer & is curious he contiues to browse ...... 
+### User5 recieves a phone call while sailing in the pacific on his satellite phone , from User3 , the last ten minutes of there conversation was about there weekend away, & asks him to send him the link over a satilite connection, User5 recieves the link & connects on his satilite laptop , he go,s to the "Contact Us" page & hits the submit form by mistake but is met with an error message about the required fields , User5 fills in the form for the first time & submits , agian he is met with an  error message about the required fields, for the third time he access the contact page & see,s that his details are still there , except the @ symbol he was promted about, he fills in the missing field ,submits the form with all inputs valid and verifys that a success message appears. Success User5 is very pleased about the fact even tho it took him 3 attempts , he never left the contact section, User5 see,s the app button in the footer & is curious he contiues to browse ...... 
 
 
-###User6 is picked up at 12:30 from creche , after arriving home , user6 picks up his dads phone which is on the counter top, he is very couriuos to screen , he clicks the logo many times , but notices it does move but , he doesnt , he then clicks the traintrack like structures in the corner, he sees the fast like window wiper swoosh in from the side , he then clicks a button before he even looked at the letters , he is brought to the guide page , he clicks all the buttons , except the home button, then he recognises the letters in one word "home" he is then brought to the telly part of the phone , he touches the arrow , he is sent moving down the page , he then see,s a button & presses it , he is brought to a funny looking page with nothing on it, after a larger number of presses he finally sees the letters home once again, presses & is sent home , he decides to keep scrolling , after loosing interest, he decides to look for those train tracks agian ,again he finds them with ease, he see,s the swoosh of the wiper again, & imeteidlty presses a button & is brought to the app page he scrolls all the way to the bottom ,he land on windows and decides to press , he presses all the windows & the funny looking lollipop stick buit nothing happens except flashy things in yhe phone ,
+### User6 is picked up at 12:30 from creche , after arriving home , user6 picks up his dads phone which is on the counter top, he is very couriuos to screen , he clicks the logo many times , but notices it does move but , he doesnt , he then clicks the traintrack like structures in the corner, he sees the fast like window wiper swoosh in from the side , he then clicks a button before he even looked at the letters , he is brought to the guide page , he clicks all the buttons , except the home button, then he recognises the letters in one word "home" he is then brought to the telly part of the phone , he touches the arrow , he is sent moving down the page , he then see,s a button & presses it , he is brought to a funny looking page with nothing on it, after a larger number of presses he finally sees the letters home once again, presses & is sent home , he decides to keep scrolling , after loosing interest, he decides to look for those train tracks agian ,again he finds them with ease, he see,s the swoosh of the wiper again, & imeteidlty presses a button & is brought to the app page he scrolls all the way to the bottom ,he lands on windows and decides to press , he presses all the windows & the funny looking lollipop stick buit nothing happens except flashy things in the phone ,
 ###HTML5 Validation Holding strong against even the toughest tests 
 
 ## Features
@@ -161,9 +161,84 @@ Tested On
 
 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+### Test1 User6 ( True/False )
+ - Was User6 able to submit a email message after comtinulsy pressing the contact section or break the site ?
+ - False
+### Test1 User6 ( True/False )
+ - Was User6 able to navigate around the site ?
+ - True 
+ - RESULT 100%
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+
+
+
+ ### Test1 User4 ( True/False )
+ - Was User4 able to navigate around the site with his disabilty?
+ - True 
+ ### Test1 User4 ( True/False )
+ - Was User4 able to connect to geoLocation ?
+ - True 
+ - RESULT 100%
+
+
+
+
+
+ ### Test1 User2 ( True/False )
+ - Was User2 able to navigate around the site ?
+ - True 
+ ### Test1 User2 ( True/False )
+ - Was User2 able to complete the task of filling out the details in the incorrect format ?
+ - False
+ ### Test1 User2 ( True/False )
+ - Was User2 able to complete the task of filling out the details in the correct format ?
+ - True
+ - RESULT 100%
+
+
+
+
+
+
+
+
+
+
+ ### Test1 User1 ( True/False )
+ - Was User1 able to connect to the website ?
+ - True 
+ ### Test1 User1 ( True/False )
+ - Was User1 able to navigate around the site ?
+ - True
+ - RESULT 100%
+
+
+
+
+ ### Test1 User5 ( True/False )
+ - Was User5 able to connect to the website on satellite internet ?
+ - True 
+ ### Test1 User5 ( True/False )
+ - Was User5 able to navigate around the site ?
+ - True
+ ### Test1 User5 ( True/False )
+ - Was User5 able to connect to geoLocation ?
+ - True 
+ - RESULT 100%
+
+
+
+
+
+ ### Test1 User6 ( True/False )
+ - Was User6 able to navigate around the site ?
+ - True 
+
+ ### Test1 User6 ( True/False )
+ - Was User6 able to navigate around the site ?
+ - True 
+ 
 
 ## Deployment
 On deploying this project , I explored various options such as host providers & Linux Servers, but this approach would of been overkill as it would be hugly beinefcal to give myself the abilty to deploy with just one command line & a open secure connection by the way of Google.
@@ -172,7 +247,7 @@ On deploying this project , I explored various options such as host providers & 
  on a free tier with excellent documentation and configeration options, it a excellent choice & can also be upgraded with relevent ease,
  all of this operation is carried out in our google firebase Cloud-console & Installed FireBaseCli, 
 
-To Deploy this project you need to have the latest version of Node.js installed onlocal machine/pc
+ To Deploy this project you need to have the latest version of Node.js installed onlocal machine/pc
 
 - After installing Node.js & Checking you have a version number, you will have to navigate to your project folder
   & run firebase init , this will initilise your project directory with a firebase.json file , this file holds the configeration for your deployment
@@ -209,7 +284,7 @@ To Deploy this project you need to have the latest version of Node.js installed 
 
 ## To Run this code Locally , you have 2 choices , you can go to [github](https://github.com/90t/public) & download the code directly, 
 ## Or you can clone this repo with
-- git clone https://github.com/90t/public.git
+- [git clone](https://github.com/90t/public.git/)
 - Requirments - Node.js - Git 
 - Hints , make sure to have a pre made folder when cloning this repo, this is because I already had a Publish repo which was the development     folder/project, so I git versioned the public folder of the deployment folder/project
 
@@ -225,6 +300,7 @@ To Deploy this project you need to have the latest version of Node.js installed 
 
 
 ## Credits
+- StackOverFlow
 
 ### Content
 - I wrote all the content 
@@ -233,8 +309,22 @@ To Deploy this project you need to have the latest version of Node.js installed 
 - The photos & videos used in this site were obtained from Pexels, Unsplash
 
 ### Acknowledgements
-##### I didn't base my work off other code, I used only what I had learnt in sylabus1/LMS1 & sylabuss2/LMS2(cloud-9).
+##### I didn't base my work off other code, I used only what I had learnt in syllabuss1/LMS1 & syylabuss2/LMS2(cloud-9).
+
+#### There was also a orignal folder, but this folder was destroyed in a OS crash on my pc , so when my pc was in getting repaired I used a second pc, which I then cloned the project folderfrom the spare pc, when I got my repared pc back I had no internet at the time , so I needed to work on my project locally, so I copied the contents of the cloned project folder from the spare pc  on to a usb stick which I then copied on to my repaired pc , so that is how I ended up with 2 repos for the same project , aswell as the similaritys in the folder names of public & publish , if there is any confusion to this , Student Care Certainly conatct me to clarify.....
+
+### It took me quite a while to work out what happened ......
+ 
 
 ### Final Commit 
-### After speaking with my mentor Chris , he advised me content issues, optimisation issues , ux issues in the nav , font issues 
+### After speaking with my mentor Chris , he advised me content issues, optimisation issues , ux issues in the nav , font issues on mobile view , Removel of local storage 
+
+### All issues have been resolved, except Total dimensional optimisation of all images, the reason for this is time.
+
+### This website has gone from Performance 20%, ProgressiveWeApp 29%, Accessibitily 59%, Best Practices 74%, SEO 81%, TO ---> 
+
+### Performance 31%, ProgressiveWeApp 31%, Accessibitily 76%, Best Practices 87%, SEO 100%, 
+- [lighthouse](https://freestylerallrounder.firebaseapp.com/lighthouse.html/)
+
+##### 10/09/2018 This is Clive Noonan , Code Initstute , Project Number1, Signing Off......
 
