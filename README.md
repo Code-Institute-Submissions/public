@@ -265,7 +265,7 @@ On deploying this project , I explored various options such as host providers & 
   [github](https://github.com/90t/publish)
 
   The deployment project folder lives at this address
-  [github](https://github.com/90t/public)
+  [github](https://github.com/90t/public) <------ THIS IS THE LIVE PROJECT FOLDER 
 
   ## My project can be viewed fully deployed on Firebase [here](https://freestylerallrounder.firebaseapp.com/).
 
